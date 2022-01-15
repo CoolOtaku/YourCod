@@ -1,3 +1,50 @@
+# YourCod
+
+<p align="center"><img height="60px" src="public/images/logo.png" /></p>
+
+## EN
+
+One of the undeveloped commercial projects to order.
+
+### Screenshots of the web site:
+
+<p>
+  <img src="screens/s1.png" height="20%"/>
+  <img src="screens/s2.png" height="20%"/>
+  <img src="screens/s3.png" height="20%"/>
+  <img src="screens/s4.png" height="20%"/>
+  <img src="screens/s5.png" height="20%"/>
+  <img src="screens/s6.png" height="20%"/>
+  <img src="screens/s7.png" height="20%"/>
+</p>
+
+## UA
+
+Один із не розвинутих комерційних проектів на заказ.
+
+### Скріншоти вебсайту:
+
+<p>
+  <img src="screens/s1.png" height="20%"/>
+  <img src="screens/s2.png" height="20%"/>
+  <img src="screens/s3.png" height="20%"/>
+  <img src="screens/s4.png" height="20%"/>
+  <img src="screens/s5.png" height="20%"/>
+  <img src="screens/s6.png" height="20%"/>
+  <img src="screens/s7.png" height="20%"/>
+</p>
+
+## Others
+
+### License
+
+```
+© 2022, CoolOtaku (ericspz531@gmail.com)
+```
+
+### Framework
+##
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
