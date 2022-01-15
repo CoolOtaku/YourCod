@@ -6,6 +6,8 @@
 
 One of the undeveloped commercial projects to order.
 
+Note: The database has been modified to protect the data!
+
 ### Screenshots of the web site:
 
 <p>
@@ -21,6 +23,8 @@ One of the undeveloped commercial projects to order.
 ## UA
 
 Один із не розвинутих комерційних проектів на заказ.
+
+Примітка: База даних змінена для захисту даних!
 
 ### Скріншоти вебсайту:
 
