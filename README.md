@@ -1,33 +1,21 @@
-# YourCod
+<p align="center"><img height="60px" src="public/images/logo.png"/></p>
+<h1 align="center">YourCod</h1>
 
-<p align="center"><img height="60px" src="public/images/logo.png" /></p>
+## Description
+<b>EN:</b>
 
-## EN
-
-One of the undeveloped commercial projects to order.
+One of the undeveloped commercial projects to order (Internet-shop). Built using the **Laravel** framework.
 
 Note: The database has been modified to protect the data!
 
-### Screenshots of the web site:
+<b>UA:</b>
 
-<p>
-  <img src="screens/s1.png" height="20%"/>
-  <img src="screens/s2.png" height="20%"/>
-  <img src="screens/s3.png" height="20%"/>
-  <img src="screens/s4.png" height="20%"/>
-  <img src="screens/s5.png" height="20%"/>
-  <img src="screens/s6.png" height="20%"/>
-  <img src="screens/s7.png" height="20%"/>
-</p>
-
-## UA
-
-Один із не розвинутих комерційних проектів на заказ.
+Один із не розвинутих комерційних проектів на заказ (Інтернет магазин). Створено за допомогою фреймворку **Laravel**.
 
 Примітка: База даних змінена для захисту даних!
 
-### Скріншоти вебсайту:
-
+#
+## Screenshots
 <p>
   <img src="screens/s1.png" height="20%"/>
   <img src="screens/s2.png" height="20%"/>
@@ -38,17 +26,38 @@ Note: The database has been modified to protect the data!
   <img src="screens/s7.png" height="20%"/>
 </p>
 
-## Others
 
-### License
 
+#
+## Technologies used
+<b>EN:</b>
+- Using **Bootstrap** (front-end framework)
+- Using a third-party template for site markup (based on **Bootstrap**)
+- Using the framework [**Laravel**](https://laravel.com)
+- Using the **MySQL** database
+- Convenient information search and site navigation
+- Internal authorization system
+- Full admin panel
+- Order management system
+
+<b>UA:</b>
+- Використання **Bootstrap** (front-end framework)
+- Використання стороннього шаблону для розмітки сайту (на основі **Bootstrap**)
+- Використання фреймворка [**Laravel**](https://laravel.com)
+- Використання бази даних **MySQL**
+- Зручний пошук інформації та навігація по сайту
+- Внутрішня система авторизації
+- Повноцінна адмін панель
+- Система управлінням замовлень
+
+#
+## License
 ```
 © 2022, CoolOtaku (ericspz531@gmail.com)
 ```
 
-### Framework
-##
-
+#
+## Framework
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
