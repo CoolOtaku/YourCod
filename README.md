@@ -4,13 +4,13 @@
 ## Description
 <b>EN:</b>
 
-One of the undeveloped commercial projects to order (Internet-shop). Built using the **Laravel** framework.
+One of the undeveloped commercial projects to order (Internet-shop). Built using the [**Laravel**](https://laravel.com) framework.
 
 Note: The database has been modified to protect the data!
 
 <b>UA:</b>
 
-Один із не розвинутих комерційних проектів на заказ (Інтернет магазин). Створено за допомогою фреймворку **Laravel**.
+Один із не розвинутих комерційних проектів на заказ (Інтернет магазин). Створено за допомогою фреймворку [**Laravel**](https://laravel.com).
 
 Примітка: База даних змінена для захисту даних!
 
@@ -26,13 +26,11 @@ Note: The database has been modified to protect the data!
   <img src="screens/s7.png" height="20%"/>
 </p>
 
-
-
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
-- Using a third-party template for site markup (based on **Bootstrap**)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Using a third-party template for site markup (based on [**Bootstrap**](https://getbootstrap.com))
 - Using the framework [**Laravel**](https://laravel.com)
 - Using the **MySQL** database
 - Convenient information search and site navigation
@@ -41,8 +39,8 @@ Note: The database has been modified to protect the data!
 - Order management system
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
-- Використання стороннього шаблону для розмітки сайту (на основі **Bootstrap**)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Використання стороннього шаблону для розмітки сайту (на основі [**Bootstrap**](https://getbootstrap.com))
 - Використання фреймворка [**Laravel**](https://laravel.com)
 - Використання бази даних **MySQL**
 - Зручний пошук інформації та навігація по сайту
